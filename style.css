@@ -60,6 +60,10 @@ h1{
 #page2,#page4,#page5{
     display: none;
 }
+
+#page7{
+    margin-top:5%;
+}
 #page8{
     color: aliceblue;
 }
